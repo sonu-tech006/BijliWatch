@@ -1,0 +1,6 @@
+{
+  "name": "BijliWatch — Smart Electricity Usage & Complaint Resolution Platform",
+  "description": "Full-stack smart electricity usage management, anomaly detection, multi-tier administration, and complaint resolution platform.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
